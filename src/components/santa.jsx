@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import santaGif from '../image/download.jpeg';
+import santaGif from '../image/santagif.gif';
 
 const Container = styled.div`
   position: relative;
